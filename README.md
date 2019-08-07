@@ -2,6 +2,15 @@
 c - programming /n
 
 
+
+http://fivedots.coe.psu.ac.th/~suthon/f1/
+http://fivedots.coe.psu.ac.th/~suthon/pps/
+
+
+
+
+/////////////////old version///////////////
+
 https://sadhu.coe.psu.ac.th/
 
 http://fivedots.coe.psu.ac.th/~thanathip.l/download/icp/
